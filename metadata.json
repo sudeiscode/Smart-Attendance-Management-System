@@ -1,0 +1,6 @@
+{
+  "name": "AttendX",
+  "description": "Smart Attendance Management System for schools and universities with real-time updates and secure dynamic QR codes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
